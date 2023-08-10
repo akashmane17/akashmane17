@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring the Tech world and learning new things every day.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode.
 
 - :mailbox: How to reach me: akashmane277@gmail.com
 

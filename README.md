@@ -29,12 +29,15 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m learning MERN stack for building web applications.
-
-- :seedling: Exploring the Tech world and learning new things every day.
-
+-  💻 Full-Stack Developer
+- 🌐 Front-End: React, HTML, CSS, Tailwind, JavaScript, 
+- 🖥️ Back-End: Node.js, Express, MongoDB, MySql
+- 🔧 RESTful APIs
+- 📊 Database Management
+- 🧰 Version Control (Git)
+- 🚀 Problem Solving
+- 📚 Continuous Learning
 - :zap: In my free time, I solve problems on Leetcode.
-
 - :mailbox: How to reach me: akashmane277@gmail.com
 
 ---

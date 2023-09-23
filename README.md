@@ -65,7 +65,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=akashmane17&theme=dark" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=akashmane17&show_icons=true&theme=transparent" />
 

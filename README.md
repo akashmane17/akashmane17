@@ -28,14 +28,14 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 -  💻 Full-Stack Developer
-- 🌐 Front-End: React, HTML, CSS, Tailwind, JavaScript, 
-- 🖥️ Back-End: Node.js, Express, MongoDB, MySql
+- 🌐 Front-End: React, HTML, CSS, Tailwind, Bootstrap, JavaScript, Typescript
+- 🖥️ Back-End: Node.js, Express, MongoDB, MySql, Postgres, Prisma
 - 🔧 RESTful APIs
 - 📊 Database Management
 - 🧰 Version Control (Git)
 - 🚀 Problem Solving
 - 📚 Continuous Learning
-- :zap: In my free time, I solve problems on Leetcode.
+  <!-- - :zap: In my free time, I solve problems on Leetcode. -->
 - :mailbox: How to reach me: akashmane277@gmail.com
 
 ---

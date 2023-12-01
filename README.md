@@ -27,7 +27,6 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
--  💻 Full-Stack Developer
 - 🌐 Front-End: React, HTML, CSS, Tailwind, Bootstrap, JavaScript, Typescript
 - 🖥️ Back-End: Node.js, Express, MongoDB, MySql, Postgres, Prisma
 - 🔧 RESTful APIs
